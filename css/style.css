@@ -1,0 +1,103 @@
+*{
+    margin:0;
+    padding:0;
+    background-color:black;
+}
+.container-header h1{
+    color: white;
+    font-size: 100px;
+    text-align: center;
+    padding-left: 30px;
+    padding-top: 50px;
+    padding-right: 50px;
+
+}
+.container-header h3{
+    color:orange;
+    font-size: 50px;
+    text-align: center;
+}
+.corona{
+    width:3;
+    height:360
+}
+#collapsibleNavbar {
+    color:orange;
+
+}
+.navbar-toggler{
+    color:orange;
+}
+.button{
+    background-color: orange;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    
+    font-size: 30px;
+    cursor: pointer;
+    border-radius: 12px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.container-header2 h2{
+    color: white;
+    font-size: 40px;
+    text-align: justify;
+    padding-left:50px;
+    padding-top: 50px;
+    padding-right: 50px;
+    text-justify:auto;
+}
+.gudda{
+    color:orange;
+}
+.container-header2 p{
+    color:whitesmoke;
+    text-align: center;
+    padding-left:60px;
+}
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.container_fluid h1{
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    padding-left: 50px;
+}
+.figdisc{
+    color:white;
+    font-size:20px;
+    
+}
+.text{
+    color: white;
+    font-size: 50px;
+    text-align: justify;
+    padding-left:50px;
+    padding-top: 80px;
+    padding-right: 30px;
+}
+.container_fluid6  p{
+    color:white;
+
+}
+.container_fluid6  a{
+    color:white;
+}
+.container_fluid6 h5{
+    color:orange;
+}
+.container_fluid6  a:hover{
+    color:orange;
+}
+.mt-5{
+    color:grey;
+}
+      

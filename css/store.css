@@ -1,0 +1,19 @@
+*{
+    margin:0;
+    padding:0;  
+    background-color:black;
+} 
+
+.gudda{
+    color:orange;
+}
+.container-header h1{
+    color:white;
+    text-align: center;
+    padding-top: 30px;
+}
+
+#01{
+    border-collapse: collapse;
+    border:2px white;
+}

@@ -1,0 +1,11 @@
+*{
+    margin:0;
+    padding:0;
+    background-color: black;
+}
+.container h1{
+    color:white;
+}
+.gudda{
+    color:orange;
+}
